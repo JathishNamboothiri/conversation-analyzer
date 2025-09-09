@@ -788,13 +788,13 @@ Provide only the JSON response without additional explanation or formatting.
 def main():
     """Main Streamlit app"""
     st.set_page_config(
-        page_title="Enhanced Conversation Analyzer",
+        page_title="DCON Analyzer: Deep Conversation Analysis Engine",
         page_icon="🗣️",
         layout="wide",
         initial_sidebar_state="expanded"
     )
     
-    st.title("🗣️ Enhanced Conversation Analysis App")
+    st.title("🗣️ DCON Analyzer: Deep Conversation Analysis Engine")
     st.markdown("*Analyze conversations with AI-powered emotion flow and sentiment distribution*")
     
     # Sidebar for configuration
