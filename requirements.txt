@@ -1,0 +1,18 @@
+whisperx
+torch
+torchaudio
+librosa
+soundfile
+pyannote.audio
+numpy
+openai
+
+
+# FOR ANALYZER 
+openai 
+pandas 
+numpy 
+matplotlib 
+seaborn
+plotly 
+altair
